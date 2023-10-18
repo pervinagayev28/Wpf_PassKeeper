@@ -1,0 +1,27 @@
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\bin\Debug\net6.0-windows\Wpf_PassKeeper.exe
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\bin\Debug\net6.0-windows\Wpf_PassKeeper.deps.json
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\bin\Debug\net6.0-windows\Wpf_PassKeeper.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\bin\Debug\net6.0-windows\Wpf_PassKeeper.dll
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\bin\Debug\net6.0-windows\Wpf_PassKeeper.pdb
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper_MarkupCompile.cache
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper_MarkupCompile.lref
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.g.resources
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.dll
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\refint\Wpf_PassKeeper.dll
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.pdb
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\ref\Wpf_PassKeeper.dll
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\bin\Debug\net6.0-windows\Images\Screenshot 2023-10-11 165852.png
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Wpf_PassKeeper_Content.g.cs
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Windows\SignIn.g.cs
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Windows\SignIn.baml
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Windows\ForgotPassSendCode.g.cs
+C:\Users\user\OneDrive\Desktop\Wpf_PassKeeper\Wpf_PassKeeper\obj\Debug\net6.0-windows\Windows\ForgotPassSendCode.baml
